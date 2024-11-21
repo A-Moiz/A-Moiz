@@ -2,7 +2,7 @@
 - 👀 I’m interested in Anime and Games and making iOS applications 
 - 🌱 I have a Bachelor of Science degree in Computer Science (First Class Honours)
 - 💞️ I’m looking for a career in iOS development 
-- 📫 How to reach me ...
+- 📫 How to reach me https://a-moiz.github.io/portfolio/
 
 <!---
 A-Moiz/A-Moiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
