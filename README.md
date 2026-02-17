@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/1uusNn_VQ1iSN2HJlxeQFiO-ZckzxCJ_h/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/CV-Download-informational?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white&color=0A66C2" alt="CV"></a>
   <a href="https://www.linkedin.com/in/abdul-moiz-135580307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-Send-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
+  <a href="mailto:abdul.m01z10123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Send-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
   <a href="https://a-moiz.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=Safari&logoColor=white&color=0e76a8" alt="Portfolio"></a>
 </p>
 
