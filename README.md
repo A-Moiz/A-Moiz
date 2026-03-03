@@ -1,97 +1,88 @@
-# Hi, I'm A-Moiz 👋
-
-🎯 **Driven Software Developer | iOS Enthusiast | Anime & Gaming Fan**
-
----
-
-🚀 I'm a passionate developer with a First Class Honours degree in Computer Science. I enjoy building impactful applications that prioritize innovative technology and user-centric design. From personal projects to polished iOS apps, I'm always striving to enhance user experiences through well-crafted solutions.
+# Abdul Moiz 👋  
+### iOS Developer | Software Developer
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1JVUw4j6NN3MTtsfKcA8OsAFSCMEia9FC/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-Download-informational?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white&color=0A66C2" alt="CV"></a>
-  <a href="https://www.linkedin.com/in/abdul-moiz-135580307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdul.m01z10123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Send-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
-  <a href="https://a-moiz.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=Safari&logoColor=white&color=0e76a8" alt="Portfolio"></a>
-</p>
+I’m a Junior iOS Developer with a First-Class BSc in Computer Science, specialising in building full-stack iOS applications using Swift and SwiftUI.
+
+I focus on clean architecture, scalable backend integration, and user-centred design to create high-quality, production-ready applications. Alongside iOS development, I have experience in web technologies and backend systems, enabling me to work across the full stack when needed.
 
 ---
 
-## 💼 Client Projects
+## 🧑‍💻 What I Work With
 
-### **RevuLink (May 2025 – May 2025, Walthamstow, UK)**
-- Worked closely with client (Jake Lazaros) to implement features tailored to his needs, maintaining communication via WhatsApp  
-- Developed the app using Swift and embedded the existing RevuLink website using WebView for seamless iOS browsing  
-- Added onboarding with a promotional video and a custom splash screen for enhanced UX and App Store approval  
-- Implemented a launch animation to improve appeal and comply with Apple’s WebView policies  
-- Resolved deployment challenges while preserving the client’s vision  
-- 📱 [RevuLink on the App Store](https://apps.apple.com/gb/app/revulink/id6745518061)
+### 📱 iOS Development
+- Swift  
+- SwiftUI  
+- MVVM Architecture  
+- App Store Deployment  
+
+### 🌐 Web & Backend
+- React & TypeScript  
+- HTML, CSS, JavaScript  
+- Supabase  
+- Firebase  
+- SQL  
+
+### 🛠 Tools
+- Xcode  
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 🧪 Personal Projects
+## 💼 Projects
 
-### **OPBR Companion (Website) – March 2025**
-- Built using React and TypeScript for modern, responsive design  
-- Utilised Supabase for dynamic content management  
-- Structured using component-based architecture for reusability and maintainability  
-- Styled with Tailwind CSS for rapid, consistent UI development  
-- 🌐 [Visit OPBR Companion Web](https://opbr-companion.netlify.app/)
+### 🌐 OPBR Companion (Web)
+- Built with React & TypeScript  
+- Backend powered by Supabase  
+- Component-based architecture with Tailwind CSS  
 
-### **OPBR Companion (iOS) – Nov 2024 to March 2025**
-- Created with Swift & SwiftUI for a smooth mobile experience  
-- Initially used CloudKit; later migrated to Supabase for full backend alignment with the web version  
-- Implemented MVVM architecture for clean and scalable code  
-- Continuously improved based on user feedback; app has received 5-star reviews  
-- 📱 [OPBR Companion on the App Store](https://apps.apple.com/gb/app/opbr-companion/id6737994116)
+🔗 [Live Site](https://opbr-companion.netlify.app)
+
+---
+
+### 📱 OPBR Companion (iOS)
+- Built using Swift & SwiftUI  
+- Migrated backend from CloudKit to Supabase  
+- Implemented MVVM architecture  
+- Continuously improved based on user feedback  
+
+🔗 [App Store Link here](https://apps.apple.com/gb/app/opbr-companion/id6737994116)
+
+---
+
+### 📱 List It (iOS)
+- Co-developed a To-Do list and note-taking application  
+- iOS built using Swift & SwiftUI  
+- Web version developed with React & TypeScript  
+- Backend powered by Supabase  
+- Implemented incremental, backward-compatible releases using GitHub
+
+🔗 [App Store Link here](https://apps.apple.com/gb/app/list-it-organise-everything/id6746731233)
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science with Computer Science – First Class Honours**  
+**CodeYourFuture — Web Development Bootcamp**  
+Jan 2026 – Present  
+
+**BSc Computer Science (First Class Honours)**  
 University of Westminster  
-📅 September 2021 – August 2024  
-📍 115 New Cavendish St, London W1W 6UW
+2021 – 2024  
 
 ---
 
-## 🛠️ Skills
+## 📫 Connect With Me
 
-### 🔧 Technical Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/CloudKit-007AFF?style=for-the-badge&logo=icloud&logoColor=white" alt="CloudKit" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 💡 Soft Skills
-
-- Effective communication, teamwork, and problem-solving  
-- Detail-oriented, adaptable, and an active listener  
-
-### 🌍 Languages
-
-- Fluent in **English** and **Urdu**
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-moiz-135580307/
+- 🌐 Portfolio: https://a-moiz.github.io/portfolio/  
+- 📄 CV: https://drive.google.com/file/d/1FXCpqTWvchBI4UnV83YpikylAj0KzG5P/view?usp=sharing  
+- ✉️ Email: abdul.m01z10123@gmail.com  
 
 ---
 
-<!---
-A-Moiz/A-Moiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Open to Junior iOS and Software Developer opportunities.
