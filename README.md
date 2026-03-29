@@ -1,19 +1,19 @@
 # Abdul Moiz
 
 ## Summary
-Junior Software Developer with a **First-Class BSc in Computer Science**, experienced in building full-stack applications across both web and mobile platforms. I have worked on projects ranging from React-based web applications to published iOS apps, focusing on creating scalable and user-centred solutions.
+Junior Software Developer with a **First-Class BSc in Computer Science**, experienced in building full-stack applications across both web and mobile platforms. I have worked on projects ranging from React based web applications to published iOS apps, focusing on creating scalable and user-centred solutions.
 
 ---
 
 # Experience
 
-## RevuLink — iOS Developer
+## RevuLink - iOS Developer
 May 2025
 
 - Delivered a production-ready iOS application for a client by integrating their existing website into a WebView while maintaining native iOS behaviour.
 - Identified and resolved App Store review blockers related to WebView usage, enabling a successful public release.
 
-## JD Sports — Seasonal Staff
+## JD Sports - Seasonal Staff
 Dec 2024 – Jan 2025
 
 - Developed strong attention to detail by managing stock room inventory.
@@ -24,7 +24,7 @@ Dec 2024 – Jan 2025
 # Projects
 
 ## List It
-May 2025 – Jun 2025  
+May 2025 - Jun 2025  
 **Role:** Software Developer  
 
 [App Store](https://apps.apple.com/gb/app/list-it-simple-to-do-list/id6746731233) | [Website](https://list-it-dom.netlify.app/landingpage) | [iOS GitHub Repo](https://github.com/A-Moiz/List-It) | [Website GitHub Repo](https://github.com/Mohamed-Y-Mohamed/List-it-web)
@@ -35,7 +35,7 @@ May 2025 – Jun 2025
 ---
 
 ## OPBR Companion
-Nov 2024 – Dec 2024  
+Nov 2024 - Dec 2024  
 **Role:** Software Developer  
 
 [App Store](https://apps.apple.com/gb/app/opbr-companion/id6737994116) | [Google Play Store](https://play.google.com/store/apps/details?id=app.opbrcompanion) | [Website](https://opbr-companion.netlify.app) | [iOS GitHub Repo](https://github.com/A-Moiz/opbr-companion) | [Android GitHub Repo](https://github.com/Wallysonadsilva/opbr-companion) | [Website GitHub Repo](https://github.com/A-Moiz/opbr-companion-web-2)
@@ -47,8 +47,8 @@ Nov 2024 – Dec 2024
 
 # Education
 
-## CodeYourFuture (CYF) — Web Development Bootcamp
-Jan 2026 – Present  
+## CodeYourFuture (CYF) - Web Development Bootcamp
+Jan 2026 - Present  
 **Role:** Software Developer Trainee
 
 - Currently undertaking an intensive bootcamp focused on modern web development.
@@ -58,7 +58,7 @@ Jan 2026 – Present
 ---
 
 ## University of Westminster
-Sep 2021 – Jun 2024  
+Sep 2021 - Jun 2024  
 **BSc Computer Science (First Class)**
 
 **Key Academic Work**
