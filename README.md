@@ -1,140 +1,132 @@
-# Abdul Moiz
+# <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Abdul%20Moiz&fontAlignY=40&color=gradient" width="100%" />
 
-## Summary
-Junior Software Developer with a **First-Class BSc in Computer Science**, experienced in building full-stack applications across both web and mobile platforms. I have worked on projects ranging from React based web applications to published iOS apps, focusing on creating scalable and user-centred solutions.
+<h2 align="center">Junior Software Developer | Web & iOS</h2>
+
+<p align="center">
+Building scalable applications across web and mobile platforms
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=First-Class+Computer+Science+Graduate;Full-Stack+Developer;React+%7C+TypeScript+%7C+SwiftUI;Building+Web+and+Mobile+Applications" alt="Typing SVG" />
+</p>
 
 ---
 
-# Experience
+# 👨‍💻 About Me
 
-## RevuLink - iOS Developer
+I am a **First-Class Computer Science graduate** from the **University of Westminster**, currently expanding my skills through the **CodeYourFuture Web Development Bootcamp**.
+
+I enjoy building **real-world applications** that bridge web and mobile platforms, focusing on scalability, usability, and clean architecture.
+
+My experience includes developing **published mobile apps**, cross-platform applications, and full-stack systems using modern technologies.
+
+---
+
+# 🚀 Currently Working On
+
+- Expanding full-stack development skills at CodeYourFuture
+- Building scalable React + TypeScript applications
+- Improving architecture for cross-platform systems
+- Continuing to publish and refine iOS applications
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Mobile Development** | ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white) |
+| **Backend / Database** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+# 🌟 Featured Projects
+
+## 📱 List It - Cross-Platform Productivity App
+
+A full-stack productivity platform combining **task management and note taking** across web and mobile applications.
+
+**Key Features**
+- Built iOS application using **Swift & SwiftUI**
+- Web platform developed with **React & TypeScript**
+- Real time syncing powered by **Supabase**
+- Designed scalable architecture supporting multiple platforms
+
+**Links**
+- App Store: https://apps.apple.com/gb/app/list-it-simple-to-do-list/id6746731233
+- Website: https://list-it-dom.netlify.app/landingpage 
+- iOS Repository: https://github.com/A-Moiz/List-It  
+- Web Repository: https://github.com/Mohamed-Y-Mohamed/List-it-web  
+
+---
+
+## 🎮 OPBR Companion - Community Gaming Platform
+
+A companion application designed for the **OPBR gaming community**, built using an iterative development process with real user feedback.
+
+**Key Features**
+- Cross-platform application
+- Community driven feature development
+- Guide and resource platform for players
+
+**Links**
+- Website: https://opbr-companion.netlify.app  
+- App Store: https://apps.apple.com/gb/app/opbr-companion/id6737994116  
+- Google Play: https://play.google.com/store/apps/details?id=app.opbrcompanion  
+- iOS Repository: https://github.com/A-Moiz/opbr-companion  
+- Android Repository: https://github.com/Wallysonadsilva/opbr-companion  
+- Web Repository: https://github.com/A-Moiz/opbr-companion-web-2
+
+---
+
+# 💼 Experience
+
+### RevuLink - iOS Developer  
 May 2025
 
-- Delivered a production-ready iOS application for a client by integrating their existing website into a WebView while maintaining native iOS behaviour.
-- Identified and resolved App Store review blockers related to WebView usage, enabling a successful public release.
-
-## JD Sports - Seasonal Staff
-Dec 2024 – Jan 2025
-
-- Developed strong attention to detail by managing stock room inventory.
-- Ensured timely product availability in a fast-paced retail environment.
+- Delivered a production ready iOS application for a client by integrating their web platform using a WebView while preserving native iOS behaviour.
+- Resolved App Store review blockers, enabling successful public release.
 
 ---
 
-# Projects
+# 🎓 Education
 
-## List It
-May 2025 - Jun 2025  
-**Role:** Software Developer  
+### CodeYourFuture - Web Development Bootcamp  
+Jan 2026 - Present
 
-[App Store](https://apps.apple.com/gb/app/list-it-simple-to-do-list/id6746731233) | [Website](https://list-it-dom.netlify.app/landingpage) | [iOS GitHub Repo](https://github.com/A-Moiz/List-It) | [Website GitHub Repo](https://github.com/Mohamed-Y-Mohamed/List-it-web)
-
-- Co-developed a cross-platform productivity application combining task management and note-taking into a unified workflow.
-- Built the iOS application using SwiftUI and integrated it with a React/TypeScript web platform using Supabase for real-time data synchronisation.
-
----
-
-## OPBR Companion
-Nov 2024 - Dec 2024  
-**Role:** Software Developer  
-
-[App Store](https://apps.apple.com/gb/app/opbr-companion/id6737994116) | [Google Play Store](https://play.google.com/store/apps/details?id=app.opbrcompanion) | [Website](https://opbr-companion.netlify.app) | [iOS GitHub Repo](https://github.com/A-Moiz/opbr-companion) | [Android GitHub Repo](https://github.com/Wallysonadsilva/opbr-companion) | [Website GitHub Repo](https://github.com/A-Moiz/opbr-companion-web-2)
-
-- Developed a cross-platform guide application.
-- Followed iterative development with feedback from the gaming community on Discord to improve features and usability.
+Software Developer Trainee focusing on:
+- Full-stack development
+- Agile collaboration
+- Real world team projects
 
 ---
 
-# Education
+### University of Westminster  
+BSc Computer Science (**First Class Honours**)  
+Sep 2021 - Jun 2024
 
-## CodeYourFuture (CYF) - Web Development Bootcamp
-Jan 2026 - Present  
-**Role:** Software Developer Trainee
+**Final Year Project**
+- iOS social media platform designed for artists
+- Implemented features based on research and surveys
 
-- Currently undertaking an intensive bootcamp focused on modern web development.
-- Building full-stack applications in a collaborative Agile environment.
-- Expanding skills in front-end development and team-based software delivery.
-
----
-
-## University of Westminster
-Sep 2021 - Jun 2024  
-**BSc Computer Science (First Class)**
-
-**Key Academic Work**
-
-**Final Year Project**  
-Developed an iOS social media application designed for artists, including features based on user research and surveys.  
-[GitHub Repo](https://github.com/A-Moiz/canvas-connect)
-
-**Object-Oriented Programming**  
-Built applications in Java applying OOP principles such as encapsulation, inheritance, and polymorphism.  
-[GitHub Repo](https://github.com/A-Moiz/Skin-Consultation-Manager)
-
-**Software Development I**  
-Learned programming fundamentals using Python including control flow, functions, data structures, and algorithms.  
-[GitHub Repo](https://github.com/A-Moiz/student-results)
+Repository:  
+https://github.com/A-Moiz/canvas-connect
 
 ---
 
-# Core Skills
+# 🌍 Languages
 
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
-- Tailwind
-
-**Mobile Development**
-- Swift
-- SwiftUI
-
-**Testing**
-- Jest
-
-**Programming Languages**
-- Java (Beginner)
-- Python (Beginner)
-
-**Databases**
-- SQL (Beginner)
-
----
-
-# Strengths
-
-- Problem Solving
-- Teamwork
-- Attention to Detail
-- Agile & Waterfall Methodologies
-- Debugging
-- UI/UX Thinking
-- Experimentation Mindset
-
----
-
-# Tools
-
-- Git / GitHub
-- VS Code
-- Xcode
-- Firebase
-- Supabase
-- Canva
-
----
-
-# Languages
-
-- English
-- Urdu
-- Hindi (Beginner)
+- English  
+- Urdu  
+- Hindi (Beginner)  
 - Punjabi (Beginner)
 
 ---
 
-# Contact
+# 📫 Connect With Me
 
-[GitHub](https://github.com/A-Moiz) | [LinkedIn](www.linkedin.com/in/abdul-moiz-135580307) | [Portfolio](https://a-moiz-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Moiz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-moiz-135580307)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://a-moiz-portfolio.netlify.app)
